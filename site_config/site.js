@@ -69,42 +69,38 @@ export default {
       {
         key: 'home',
         text: '首页',
-        link: '/zh-cn/index.html',
+        link: '/zh-cn/docs/团队介绍.html',
       },
       {
         key: 'docs',
-        text: '文档',
-        link: '/zh-cn/docs/.html',
+        text: '产品介绍',
+        link: '/zh-cn/docs/团队介绍.html',
       },
       {
         key: 'blog',
-        text: '博客',
+        text: '技术沉淀',
         link: '/zh-cn/blog/index.html',
       },
       {
         key: 'community',
-        text: '社区',
+        text: '团队发展',
         link: '/zh-cn/community/index.html',
       },
     ],
     disclaimer: {
-      title: '免责声明',
-      content: '免责声明的具体内容',
+      title: '联系方式',
+      content: '电话：13265809498 （微信同号）',
     },
     documentation: {
       title: '文档',
       list: [
         {
-          text: '概览',
-          link: '/zh-cn/docs/demo1.html',
+          text: '团队介绍',
+          link: '/zh-cn/docs/团队介绍.html',
         },
         {
-          text: '快速开始',
-          link: '/zh-cn/docs/demo2.html',
-        },
-        {
-          text: '开发者指南',
-          link: '/zh-cn/docs/dir/demo3.html',
+          text: '产品介绍',
+          link: '/zh-cn/docs/项目列表.html',
         },
       ],
     },
@@ -112,11 +108,11 @@ export default {
       title: '资源',
       list: [
         {
-          text: '博客',
+          text: '技术沉淀',
           link: '/zh-cn/blog/index.html',
         },
         {
-          text: '社区',
+          text: '团队发展',
           link: '/zh-cn/community/index.html',
         },
       ],

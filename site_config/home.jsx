@@ -19,40 +19,38 @@ export default {
       ],
     },
     introduction: {
-      title: '产品介绍',
-      desc: '~~',
-      img: '/img/architecture.png',
+      title: '团队介绍',
+      desc: '团队分为开发，产品3个主要团队',
+      img: '/img/总办.png',
     },
     features: {
-      title: '特性一览',
+      title: '团队优势',
       list: [
         {
           img: '/img/feature_transpart.png',
           title: '年轻化',
-          content: '中，正高级工程师1人，工程师6人，助理工程师1人，开发人员平均年龄33岁',
+          content: '开发侧正高级工程师7人，助理工程师1人，平均年龄33岁',
         },
         {
           img: '/img/feature_loadbalances.png',
           title: '专业性',
-          content: '来自腾讯，阿里等大厂',
+          content: '开发人员均来自腾讯，阿里等大厂',
+        },
+        {
+          img: '/img/feature_loadbalances.png',
+          title: '有保障',
+          content: '和上海柔行，西安前观测控形成良好合作关系',
         },
       ],
     },
     start: {
-      title: '快速开始',
-      desc: '简单描述',
-      img: '/img/quick_start.png',
+      title: '项目介绍',
+      desc: '',
+      img: '/img/项目列表.png',
       button: {
         text: '阅读更多',
-        link: '/zh-cn/docs/demo1.html',
+        link: '/zh-cn/docs/项目列表.html',
       },
-    },
-    users: {
-      title: '用户',
-      desc: <span>前沿测控</span>,
-      list: [
-        '/img/users_alibaba.png',
-      ],
     },
   },
   'en-us': {
