@@ -74,7 +74,7 @@ export default {
       {
         key: 'docs',
         text: '产品介绍',
-        link: '/zh-cn/docs/index.html',
+        link: '/zh-cn/docs/团队介绍.html',
       },
       {
         key: 'blog',

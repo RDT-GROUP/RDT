@@ -91,7 +91,7 @@ class Home extends Language {
               <p>{dataSource.start.desc}</p>
               <a href={getLink(dataSource.start.button.link)} target={dataSource.start.button.link || '_self'}>{dataSource.start.button.text}</a>
               </div>
-            <div className="right-part"><img src={getLink('/img/quick_start.png')} /></div>
+            <div className="right-part"><img src={getLink('/img/项目列表.png')} /></div>
           </div>
         </section>
         <section className="users-section">
