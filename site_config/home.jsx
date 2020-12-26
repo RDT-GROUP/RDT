@@ -52,6 +52,14 @@ export default {
         link: '/zh-cn/docs/项目列表.html',
       },
     },
+    users: {
+      title: '产品列表',
+      desc: <span>产品列表</span>,
+      list: [
+        '/img/users_alibaba.png',
+        '/img/users_alibaba.png',
+      ],
+    },
   },
   'en-us': {
     brand: {
