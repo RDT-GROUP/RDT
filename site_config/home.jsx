@@ -120,7 +120,7 @@ export default {
     start: {
       title: 'Quick start',
       desc: 'some description text',
-      img: '/img/quick_start.png',
+      img: '/img/项目列表.png',
       button: {
         text: 'READ MORE',
         link: '/en-us/docs/demo1.html',
