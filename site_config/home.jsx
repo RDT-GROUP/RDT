@@ -3,24 +3,24 @@ import React from 'react';
 export default {
   'zh-cn': {
     brand: {
-      brandName: '开源产品品牌名称',
-      briefIntroduction: '关于开源产品的简单介绍',
+      brandName: '睿鼎克',
+      briefIntroduction: '睿鼎克简单介绍',
       buttons: [
         {
-          text: '立即开始',
-          link: '/zh-cn/docs/demo1.html',
+          text: '团队介绍',
+          link: '/zh-cn/docs/团队介绍.html',
           type: 'primary',
         },
         {
           text: '查看Github',
-          link: '',
+          link: 'https://github.com/RDT-GROUP',
           type: 'normal',
         },
       ],
     },
     introduction: {
-      title: '开源产品的介绍',
-      desc: '开源产品的简单介绍，提供一些该产品的优点、特性描述等',
+      title: '产品介绍',
+      desc: '~~',
       img: '/img/architecture.png',
     },
     features: {
@@ -28,33 +28,13 @@ export default {
       list: [
         {
           img: '/img/feature_transpart.png',
-          title: '特性1',
-          content: '特性1的简单概括',
+          title: '年轻化',
+          content: '中，正高级工程师1人，工程师6人，助理工程师1人，开发人员平均年龄33岁',
         },
         {
           img: '/img/feature_loadbalances.png',
-          title: '特性2',
-          content: '特性2的简单概括',
-        },
-        {
-          img: '/img/feature_service.png',
-          title: '特性3',
-          content: '特性3的简单概括',
-        },
-        {
-          img: '/img/feature_hogh.png',
-          title: '特性4',
-          content: '特性4的简单概括',
-        },
-        {
-          img: '/img/feature_runtime.png',
-          title: '特性5',
-          content: '特性5的简单概括',
-        },
-        {
-          img: '/img/feature_maintenance.png',
-          title: '特性6',
-          content: '特性6的简单概括',
+          title: '专业性',
+          content: '来自腾讯，阿里等大厂',
         },
       ],
     },
@@ -69,23 +49,8 @@ export default {
     },
     users: {
       title: '用户',
-      desc: <span>简单描述</span>,
+      desc: <span>前沿测控</span>,
       list: [
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
         '/img/users_alibaba.png',
       ],
     },

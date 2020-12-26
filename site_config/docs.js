@@ -30,23 +30,27 @@ export default {
   'zh-cn': {
     sidemenu: [
       {
-        title: '大标题',
+        title: '介绍',
         children: [
           {
-            title: '示例1',
-            link: '/zh-cn/docs/demo1.html',
+            title: '团队介绍',
+            link: '/zh-cn/docs/团队介绍.html',
           },
           {
-            title: '示例2',
-            link: '/zh-cn/docs/demo2.html',
+            title: '项目列表',
+            link: '/zh-cn/docs/项目列表.html',
           },
           {
-            title: '目录',
+            title: '产品介绍',
             opened: true,
             children: [
               {
-                title: '示例3',
-                link: '/zh-cn/docs/dir/demo3.html',
+                title: '高效志愿',
+                link: '/zh-cn/docs/高效志愿.html',
+              },
+              {
+                title: '每日校招',
+                link: '/zh-cn/docs/每日校招.html',
               },
             ],
           },
