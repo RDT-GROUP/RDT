@@ -20,7 +20,7 @@ export default {
     },
     introduction: {
       title: '团队介绍',
-      desc: '团队分为开发，产品3个主要团队',
+      desc: '团队分为开发，产品，测试3个主要团队',
       img: '/img/总办.png',
     },
     features: {
@@ -56,7 +56,6 @@ export default {
       title: '产品列表',
       desc: <span>产品列表</span>,
       list: [
-        '/img/users_alibaba.png',
         '/img/users_alibaba.png',
       ],
     },
