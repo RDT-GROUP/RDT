@@ -69,12 +69,12 @@ export default {
       {
         key: 'home',
         text: '首页',
-        link: '/zh-cn/docs/团队介绍.html',
+        link: '/zh-cn/docs/index.html',
       },
       {
         key: 'docs',
         text: '产品介绍',
-        link: '/zh-cn/docs/团队介绍.html',
+        link: '/zh-cn/docs/index.html',
       },
       {
         key: 'blog',
