@@ -69,7 +69,7 @@ export default {
       {
         key: 'home',
         text: '首页',
-        link: '/zh-cn/docs/index.html',
+        link: '/zh-cn/index.html',
       },
       {
         key: 'docs',
