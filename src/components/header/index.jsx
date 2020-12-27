@@ -152,24 +152,6 @@ class Header extends React.Component {
             ) : null
           }
 
-    /*
-          {
-            onLanguageChange !== noop ?
-            (<span
-              className={
-                classnames({
-                  'language-switch': true,
-                  [`language-switch-${type}`]: true,
-                })
-              }
-              onClick={this.switchLang}
-            >
-              {languageSwitch.find(lang => lang.value === language).text}
-            </span>)
-            :
-            null
-          }
-   */
           <div
             className={
               classnames({
