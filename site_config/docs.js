@@ -57,6 +57,6 @@ export default {
         ],
       },
     ],
-    barText: '文档',
+    barText: '产品介绍',
   },
 };

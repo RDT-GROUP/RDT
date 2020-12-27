@@ -92,20 +92,20 @@ export default {
       content: '电话：13265809498 （微信同号）',
     },
     documentation: {
-      title: '文档',
+      title: '产品介绍',
       list: [
         {
           text: '团队介绍',
           link: '/zh-cn/docs/团队介绍.html',
         },
         {
-          text: '产品介绍',
+          text: '项目列表',
           link: '/zh-cn/docs/项目列表.html',
         },
       ],
     },
     resources: {
-      title: '资源',
+      title: '沉淀',
       list: [
         {
           text: '技术沉淀',
