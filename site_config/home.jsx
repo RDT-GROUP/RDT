@@ -3,8 +3,8 @@ import React from 'react';
 export default {
   'zh-cn': {
     brand: {
-      brandName: '睿鼎克',
-      briefIntroduction: '专注数据分析、通信安全、视频智能等多种解决方案。\n我们只有5岁，期待和您一同发现产品之美',
+      brandName: '睿鼎克工作室',
+      briefIntroduction: '拥有数据分析、通信安全、视频智能等多种解决方案，我们只有5岁，期待和您一同发现产品之美',
       buttons: [
         {
           text: '团队介绍',
