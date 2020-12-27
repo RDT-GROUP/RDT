@@ -4,7 +4,7 @@ export default {
   'zh-cn': {
     brand: {
       brandName: '睿鼎克',
-      briefIntroduction: '我们有数据分析、通信安全、视频智能等多种解决方案\n                          我们只有5岁，期待和您一同发现产品之美',
+      briefIntroduction: '我们有数据分析、通信安全、视频智能等多种解决方案。\n                          我们只有5岁，期待和您一同发现产品之美',
       buttons: [
         {
           text: '团队介绍',
