@@ -108,12 +108,12 @@ export default {
       title: '沉淀',
       list: [
         {
-          text: '技术沉淀',
-          link: '/zh-cn/blog/index.html',
+          text: '技术沉淀[暂未开放]',
+          link: '/zh-cn/docs/团队介绍.html',
         },
         {
-          text: '团队发展',
-          link: '/zh-cn/community/index.html',
+          text: '团队发展[暂未开放]',
+          link: '/zh-cn/docs/团队介绍.html',
         },
       ],
     },

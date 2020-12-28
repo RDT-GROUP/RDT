@@ -4,7 +4,7 @@ pages:
   # 首页配置
   zh-cn:
    title: '睿鼎克RDT'
-   keywords: '睿鼎克，关键词2'
+   keywords: '睿鼎克'
    description: '页面内容简介'
   # home config
   en-us:
@@ -15,7 +15,7 @@ pages:
   # 社区页配置
   zh-cn:
    title: '睿鼎克RDT'
-   keywords: '睿鼎克，关键词2'
+   keywords: '睿鼎克，睿鼎克'
    description: '页面内容简介'
   # community page config
   en-us:
@@ -26,7 +26,7 @@ pages:
   # 博客列表页配置
   zh-cn:
    title: '睿鼎克RDT'
-   keywords: '睿鼎克，关键词2'
+   keywords: '睿鼎克，睿鼎克'
    description: '页面内容简介'
   en-us:
    # blog list page config

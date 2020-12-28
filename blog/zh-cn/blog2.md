@@ -1,6 +1,6 @@
 ---
-key1: hello
-key2: world
+key1: 睿鼎克
+key2: 睿鼎克
 ---
 
 # 博客2
