@@ -52,6 +52,18 @@ export default {
                 title: '每日校招',
                 link: '/zh-cn/docs/每日校招.html',
               },
+              {
+                title: '安全通讯模块',
+                link: '/zh-cn/docs/安全模块.html',
+              },
+              {
+                title: '高速基因比对设备',
+                link: '/zh-cn/docs/基因比对.html',
+              },
+              {
+                title: '超大规模应力实时检测系统',
+                link: '/zh-cn/docs/应力系统.html',
+              },
             ],
           },
         ],

@@ -112,8 +112,8 @@ export default {
           link: '/zh-cn/docs/团队介绍.html',
         },
         {
-          text: '团队发展[暂未开放]',
-          link: '/zh-cn/docs/团队介绍.html',
+          text: '前观测控',
+          link: '/zh-cn/docs/前观测控公司介绍.html',
         },
       ],
     },
