@@ -30,7 +30,7 @@ export default {
   'zh-cn': {
     sidemenu: [
       {
-        title: '介绍',
+        title: '详细介绍',
         children: [
           {
             title: '团队介绍',
@@ -51,6 +51,10 @@ export default {
               {
                 title: '每日校招',
                 link: '/zh-cn/docs/每日校招.html',
+              },
+              {
+                title: '海南电影节',
+                link: '/zh-cn/docs/电影节.html',
               },
               {
                 title: '安全通讯模块',

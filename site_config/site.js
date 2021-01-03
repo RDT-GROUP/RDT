@@ -92,7 +92,7 @@ export default {
       content: '电话：13265809498 （微信同号）',
     },
     documentation: {
-      title: '产品介绍',
+      title: '团队介绍',
       list: [
         {
           text: '团队介绍',
@@ -117,6 +117,6 @@ export default {
         },
       ],
     },
-    copyright: 'Copyright © 2018 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    copyright: 'Copyright © 2021 ',
   },
 };
