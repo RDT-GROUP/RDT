@@ -78,8 +78,8 @@ export default {
       },
       {
         key: 'blog',
-        text: '技术沉淀【暂未开放】',
-        link: '/zh-cn/docs/团队介绍.html',
+        text: '技术沉淀',
+        link: '/zh-cn/docs/技术驱动型.html',
       },
       {
         key: 'community',
